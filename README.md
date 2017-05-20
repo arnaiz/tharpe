@@ -11,3 +11,5 @@ Linux version 4.9.0-3-amd64 (debian-kernel@lists.debian.org) (gcc version 6.3.0 
 
 cat /etc/debian_version 
 9.0
+
+tharpe name its because her https://en.wikipedia.org/wiki/Sister_Rosetta_Tharpe
