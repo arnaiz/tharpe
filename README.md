@@ -3,7 +3,7 @@ config files on tharpe host
 
 Lenovo ideapad 110.
 
-I customize this simple and usable installation to my mother laptop. Is a minimal Debian GNU/Linux stretch + openbox desktop over a crypt LVM volume.
+I customize this simple and usable installation to my mother's laptop. Is a minimal Debian GNU/Linux stretch + openbox desktop over a crypt LVM volume. I added dpkg -l output for details.
 
 To gain usability added an auto_login option with her username and password to the slim display manager. I consider users password its not neccesary since its a single user host and at boot sequence decrypt fs password its required.
 
