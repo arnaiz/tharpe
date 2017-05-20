@@ -11,6 +11,11 @@
 				<execute>pcmanfm /home/puri</execute>
 			</action>
 		</item>
+		<item label="GNU Emacs">
+			<action name="Execute">
+				<execute>emacs</execute>
+			</action>
+		</item>
 		<item label="Calculadora">
 			<action name="Execute">
 				<execute>qalculate</execute>
@@ -23,20 +28,17 @@
 					<execute>x-terminal-emulator</execute>
 				</action>
 			</item>
-			<item label="obconf">
+			<item label="Obconf">
 				<action name="Execute">
 					<execute>obconf</execute>
 				</action>
 			</item>
-			<item label="obmenu">
+			<item label="Obmenu">
 				<action name="Execute">
 					<execute>obmenu</execute>
 				</action>
 			</item>
-			<item label="Reconfigure">
-				<action name="Reconfigure"/>
-			</item>
-			<item label="tint2">
+			<item label="Configurar Tint2">
 				<action name="Execute">
 					<execute>tint2conf</execute>
 				</action>
